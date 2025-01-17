@@ -88,13 +88,13 @@ func (as *ArgsService) Init() error {
 	urls := parser.String("u", "urls", &argparse.Options{Help: "URLs to scan for GET method, request for other methods", Default: "urls.txt"})
 	payloads := parser.String("p", "payloads", &argparse.Options{Help: "Payloads to use", Default: "payloads.txt"})
 
-	threads := parser.Int("t", "threads", &argparse.Options{Help: "Number of threads to run scans in parallel", Default: 10})
+	threads := parser.Int("T", "threads", &argparse.Options{Help: "Number of threads to run scans in parallel", Default: 10})
 	continueFrom := parser.Int("c", "continue", &argparse.Options{Help: "Offset to continue scan from", Default: 0})
 
 	verbose := parser.String("v", "verbose", &argparse.Options{Help: "Log level (ALL, LOG, INFO, WARN, ERROR)", Default: "ALL"})
 	headers := parser.List("H", "header", &argparse.Options{Help: "Headers to append to GET request, multiple allowed", Default: []string{}})
 
-	timeout := parser.Int("T", "timeout", &argparse.Options{Help: "Timeout for requests in ms", Default: 5000})
+	timeout := parser.Int("t", "timeout", &argparse.Options{Help: "Timeout for requests in ms", Default: 5000})
 	delay := parser.Int("d", "delay", &argparse.Options{Help: "Delay between requests", Default: 0})
 
 	output := parser.String("o", "output", &argparse.Options{Help: "Output file"})

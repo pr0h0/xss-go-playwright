@@ -86,9 +86,11 @@ func (gs *GetService) Run() {
 
 	var combinedUrls []string
 	for _, url := range gs.Urls {
-		for _, payload := range gs.Payloads {
-			combinedUrls = append(combinedUrls, strings.Replace(url, "{payload}", payload, -1))
+		newUrls := gs.urlService.CombineUrlQueryWithPayload(url, gs.Payloads)
+		if newUrlsString, err := jsonServiceInstance.ArrayToString(newUrls); err == nil {
+			utils.Log.Info(newUrlsString)
 		}
+		combinedUrls = append(combinedUrls, newUrls...)
 	}
 
 	utils.Log.Info(fmt.Sprintf("Generated [%d] URLs", len(combinedUrls)))
@@ -155,13 +157,14 @@ func (gs *GetService) GetPayloads() error {
 }
 
 func (gs *GetService) GetUUID() error {
-	dateNow := strconv.FormatInt(time.Now().UnixNano(), 10)
+	dateNow := strconv.FormatInt(time.Now().UnixMicro(), 10)
 	gs.UUID = strings.Replace(dateNow, ".", "", -1)
 
 	return nil
 }
 
-func (gs *GetService) Send(ctx playwright.BrowserContext, url string, pageIndex int) (bool, error) {
+func (gs *GetService) Send(ctx playwright.BrowserContext, url string, pageIndex int) (foundXss bool, _ error) {
+	foundXss = false
 	options := gs.argService.GetAll()
 
 	var page playwright.Page
@@ -183,13 +186,14 @@ func (gs *GetService) Send(ctx playwright.BrowserContext, url string, pageIndex 
 		dialogMsg := dialog.Message()
 		dialogType := dialog.Type()
 		if err := dialog.Accept(); err != nil {
-			utils.Log.Error(fmt.Sprintf("Error accepting dialog %s: %s", dialogType, dialogMsg))
+			utils.Log.Error(fmt.Sprintf("Error accepting dialog %s: %s, %s", dialogType, dialogMsg, url))
 		} else {
 			if dialogMsg == gs.UUID {
 				utils.Log.Success(fmt.Sprintf("XSS found: %s", url))
 			} else {
 				utils.Log.Warn(fmt.Sprintf("Alert found with UUID missmatch: %s %s", dialogMsg, url))
 			}
+			foundXss = true
 			dialogChan <- true
 		}
 	}
@@ -323,16 +327,17 @@ func (gs *GetService) Scan(ctx playwright.BrowserContext) error {
 			} else if found {
 				m.Lock()
 				foundXss = append(foundXss, url)
+				utils.Log.Success(fmt.Sprintf("Found total %d urls", len(foundXss)))
 				m.Unlock()
 			}
-
-			wg.Done()
 
 			if options[ArgKeys.Delay].(int) > 0 {
 				time.Sleep(time.Duration(options[ArgKeys.Delay].(int)) * time.Millisecond)
 			}
 
 			freeSlotChan <- pageIndex
+			wg.Done()
+
 		}(url, pageIndex)
 	}
 
