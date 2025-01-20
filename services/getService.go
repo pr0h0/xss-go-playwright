@@ -69,32 +69,31 @@ func (gs *GetService) Run() {
 	if err := gs.GetUUID(); err != nil {
 		utils.HandleErr(err)
 	} else {
-		utils.Log.Info("UUID generated")
+		utils.Log.Info("UUID generated", gs.UUID)
 	}
 
 	if err := gs.GetUrls(); err != nil {
 		utils.HandleErr(err)
 	} else {
-		utils.Log.Info("URLs parsed")
+		utils.Log.Info(fmt.Sprintf("URLs parsed: [%d]", len(gs.Urls)))
 	}
 
 	if err := gs.GetPayloads(); err != nil {
 		utils.HandleErr(err)
 	} else {
-		utils.Log.Info("Payloads parsed")
+		utils.Log.Info(fmt.Sprintf("Payloads parsed: [%d]", len(gs.Payloads)))
 	}
 
 	var combinedUrls []string
 	for _, url := range gs.Urls {
 		newUrls := gs.urlService.CombineUrlQueryWithPayload(url, gs.Payloads)
-		if newUrlsString, err := jsonServiceInstance.ArrayToString(newUrls); err == nil {
-			utils.Log.Info(newUrlsString)
-		}
 		combinedUrls = append(combinedUrls, newUrls...)
 	}
 
 	utils.Log.Info(fmt.Sprintf("Generated [%d] URLs", len(combinedUrls)))
 	gs.CombinedUrls = utils.RemoveDuplicates(combinedUrls)
+
+	time.Sleep(2 * time.Second)
 }
 
 func (gs *GetService) GetUrls() error {
@@ -164,19 +163,14 @@ func (gs *GetService) GetUUID() error {
 }
 
 func (gs *GetService) Send(ctx playwright.BrowserContext, url string, pageIndex int) (foundXss bool, _ error) {
-	foundXss = false
 	options := gs.argService.GetAll()
 
 	var page playwright.Page
 	var err error
 
-	pages := ctx.Pages()
-	if len(pages) > pageIndex {
-		page = pages[pageIndex]
-	} else {
-		if page, err = ctx.NewPage(); err != nil {
-			return false, err
-		}
+	page, err = ctx.NewPage()
+	if err != nil {
+		return false, err
 	}
 
 	dialogChan := make(chan bool, 1)
@@ -216,7 +210,7 @@ func (gs *GetService) Send(ctx playwright.BrowserContext, url string, pageIndex 
 				close(pageLoadChan)
 			}
 		}
-
+		page.Close()
 	}()
 
 	if _, err := page.Goto(url); err != nil {
@@ -244,18 +238,14 @@ func (gs *GetService) Send(ctx playwright.BrowserContext, url string, pageIndex 
 func (gs *GetService) Scan(ctx playwright.BrowserContext) error {
 	options := gs.argService.GetAll()
 
+	ctx.NewPage()
+
 	continueFrom := min(max(0, options[ArgKeys.Continue].(int)), len(gs.CombinedUrls))
 	urlsToScan := gs.CombinedUrls[continueFrom:]
 
 	var wg sync.WaitGroup
 
 	tabCount := min(options[ArgKeys.Threads].(int), len(urlsToScan))
-
-	for ix := 0; ix < tabCount; ix++ {
-		if _, err := ctx.NewPage(); err != nil {
-			utils.HandleErr(err)
-		}
-	}
 
 	urlsChan := make(chan string, tabCount)
 
@@ -353,6 +343,7 @@ func (gs *GetService) Scan(ctx playwright.BrowserContext) error {
 			for _, url := range foundXss {
 				utils.Log.Success(url)
 			}
+			utils.Log.Success(fmt.Sprintf("XSS found: %d", len(foundXss)))
 		} else {
 			utils.Log.Info("No XSS found")
 		}

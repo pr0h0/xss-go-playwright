@@ -105,6 +105,8 @@ func (app *App) Run() {
 		utils.HandleErr(err)
 	} else {
 		app.postService.Run()
+		err := app.postService.Scan(app.ctx)
+		utils.HandleErr(err)
 	}
 
 	utils.Log.Success("Ran the app")

@@ -14,6 +14,7 @@ type ArgKey string
 // Predefined keys for the argument map
 const (
 	keyMethod   ArgKey = "method"
+	keyProtocol ArgKey = "protocol"
 	keyVerbose  ArgKey = "verbose"
 	keyUrls     ArgKey = "urls"
 	keyThreads  ArgKey = "threads"
@@ -30,6 +31,7 @@ const (
 // ArgKeys is a "named enum" collection for reference
 var ArgKeys = struct {
 	Method   ArgKey
+	Protocol ArgKey
 	Verbose  ArgKey
 	Urls     ArgKey
 	Threads  ArgKey
@@ -43,6 +45,7 @@ var ArgKeys = struct {
 	Timeout  ArgKey
 }{
 	Method:   keyMethod,
+	Protocol: keyProtocol,
 	Verbose:  keyVerbose,
 	Urls:     keyUrls,
 	Threads:  keyThreads,
@@ -84,6 +87,7 @@ func (as *ArgsService) Init() error {
 
 	// Define flags for "scan" command
 	method := parser.String("m", "method", &argparse.Options{Help: "HTTP method to use (GET, POST, PUT, etc.)", Default: "GET"})
+	protocol := parser.String("", "protocol", &argparse.Options{Help: "HTTP protocol to use (http/https)", Default: "https"})
 
 	urls := parser.String("u", "urls", &argparse.Options{Help: "URLs to scan for GET method, request for other methods", Default: "urls.txt"})
 	payloads := parser.String("p", "payloads", &argparse.Options{Help: "Payloads to use", Default: "payloads.txt"})
@@ -120,6 +124,7 @@ func (as *ArgsService) Init() error {
 		argsMap[ArgKeys.Payload] = *payloads
 		argsMap[ArgKeys.Verbose] = *verbose
 		argsMap[ArgKeys.Threads] = *threads
+		argsMap[ArgKeys.Protocol] = *protocol
 		argsMap[ArgKeys.Method] = strings.ToUpper(*method)
 		argsMap[ArgKeys.Header] = *headers
 		argsMap[ArgKeys.Continue] = *continueFrom

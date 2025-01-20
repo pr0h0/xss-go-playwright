@@ -51,3 +51,15 @@ func HandleCtrlC(cancel context.CancelFunc) {
 		cancel()
 	}()
 }
+
+func CloneMap(original map[string]string) map[string]string {
+	// Create a new map with the same type as the original
+	cloned := make(map[string]string, len(original))
+
+	// Copy each key-value pair from the original map to the cloned map
+	for key, value := range original {
+		cloned[key] = value
+	}
+
+	return cloned
+}

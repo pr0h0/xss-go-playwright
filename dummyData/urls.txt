@@ -1,3 +1,5 @@
-https://maglaj.ba/ba/investitori.php?id={payload}
+# https://maglaj.ba/ba/investitori.php?id=1
+# https://www.klix.ba/pretraga?q={payload}%7C%7C%7CSarajevo
 # https://public-firing-range.appspot.com/address/location.hash/assign#{payload}
 # https://xss-game.appspot.com/level3/frame#{payload}
+http://testhtml5.vulnweb.com/#/latest/page/{payload}
